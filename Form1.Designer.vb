@@ -58,6 +58,7 @@ Partial Class Form1
 		' Button1
 		' 
 		Button1.Anchor = AnchorStyles.Top
+		Button1.Cursor = Cursors.Hand
 		Button1.Location = New Point(26, 81)
 		Button1.Name = "Button1"
 		Button1.Size = New Size(41, 23)
@@ -68,6 +69,7 @@ Partial Class Form1
 		' Button2
 		' 
 		Button2.Anchor = AnchorStyles.Top
+		Button2.Cursor = Cursors.Hand
 		Button2.Location = New Point(73, 81)
 		Button2.Name = "Button2"
 		Button2.Size = New Size(40, 23)
@@ -78,6 +80,7 @@ Partial Class Form1
 		' Button3
 		' 
 		Button3.Anchor = AnchorStyles.Top
+		Button3.Cursor = Cursors.Hand
 		Button3.Location = New Point(119, 81)
 		Button3.Name = "Button3"
 		Button3.Size = New Size(41, 23)
@@ -88,6 +91,7 @@ Partial Class Form1
 		' Button4
 		' 
 		Button4.Anchor = AnchorStyles.Top
+		Button4.Cursor = Cursors.Hand
 		Button4.Location = New Point(166, 81)
 		Button4.Name = "Button4"
 		Button4.Size = New Size(39, 23)
@@ -98,6 +102,7 @@ Partial Class Form1
 		' Button5
 		' 
 		Button5.Anchor = AnchorStyles.Top
+		Button5.Cursor = Cursors.Hand
 		Button5.Location = New Point(211, 81)
 		Button5.Name = "Button5"
 		Button5.Size = New Size(39, 23)
@@ -111,6 +116,7 @@ Partial Class Form1
 		Label3.AutoSize = True
 		Label3.BackColor = Color.PaleGreen
 		Label3.BorderStyle = BorderStyle.Fixed3D
+		Label3.Cursor = Cursors.Hand
 		Label3.Font = New Font("Segoe UI", 15.75F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
 		Label3.ForeColor = Color.Black
 		Label3.Location = New Point(119, 107)
@@ -123,6 +129,7 @@ Partial Class Form1
 		' Button6
 		' 
 		Button6.Anchor = AnchorStyles.Top
+		Button6.Cursor = Cursors.Hand
 		Button6.Location = New Point(119, 145)
 		Button6.Name = "Button6"
 		Button6.Size = New Size(41, 23)
